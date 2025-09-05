@@ -108,7 +108,6 @@ Your tasks:
    - Scan ABAP code in this unit for KONV, DZAEHK, DZAEKO in DATA/TYPES/FIELD-SYMBOLS/CONSTANTS/LIKE declarations.
    - Replace with respective new names (PRCD_ELEMENTS, VFPRC_COND_COUNT, VFPRC_COND_COUNT_HEAD).
    - Add `TODO` comments where manual adjustments are needed for logic/refactoring.
-   - Output strictly in JSON with: original_code, remediated_code, changes[].
 
 Return ONLY strict JSON:
 {{
